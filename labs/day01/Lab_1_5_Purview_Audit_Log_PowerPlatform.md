@@ -166,7 +166,6 @@ Identify the following important fields:
 | Operation | Type of activity |
 | Workload | Service generating the event |
 | ClientIP | Source IP address |
-| ObjectId | Resource affected |
 
 These fields are commonly used in **SIEM monitoring rules**.
 
@@ -176,11 +175,9 @@ These fields are commonly used in **SIEM monitoring rules**.
 
 1. Return to the audit search results page.
 
-2. Select **Export → Download all results**.
+2. Select **Export**.
 
-3. Choose **CSV format**.
-
-4. Save the file locally.
+3. Save the file locally.
 
 ---
 

@@ -49,8 +49,6 @@ Students will use:
 - SharePoint Admin Center
 - SharePoint site permissions pages
 
-All students will work in the **same tenant**.
-
 ---
 
 ## Required Permissions
@@ -130,7 +128,7 @@ Developer tenants typically contain sites such as:
 
 Select a site from the list and click the site name.
 
-Open: **Permissions → Site permissions**
+Open: **Membership**
 
 Look for groups that contain: **Everyone except external users**
 
@@ -162,7 +160,7 @@ Example indicators:
 
 ### Task 5 — Inspect Site Sharing Settings
 
-In the site settings panel review: **Policies → External sharing**
+In the site settings panel review: **Settings → External file sharing**
 
 Document whether the site allows:
 
@@ -181,7 +179,7 @@ Sites allowing anonymous or broad internal sharing may increase Copilot exposure
 
 Open the site.
 
-Navigate to: **Documents → Settings → Library permissions**
+Navigate to: **Documents → Settings → Library settings → More library settings → Permissions for this document library**
 
 Check whether the library:
 
